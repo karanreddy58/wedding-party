@@ -33,18 +33,18 @@ function Home() {
 
         {/* Description */}
         <MotionText
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          transition={{ duration: 1.2 }}
-          fontSize={["lg", "xl"]} // Responsive font size
-          textAlign="center"
-          maxW="800px"
-          color="#4a4a4a" // Neutral gray for readability
-          fontFamily="'Montserrat', sans-serif" // Clean body font
-        >
-          Join us as we celebrate our love on June 14, 2025, at the Rosewood Estate.
-          Your presence will make our day even more memorable.
-        </MotionText>
+  initial={{ opacity: 0 }}
+  animate={{ opacity: 1 }}
+  transition={{ duration: 1.2 }}
+  fontSize={["lg", "xl"]}
+  textAlign="center"
+  maxW="800px"
+  color="#4a4a4a"
+  fontFamily="'Montserrat', sans-serif"
+>
+  Celebrate with us on May 24th at Flinders Lane Kitchen and Bar in Stamford, Connecticut where love, laughter, and unforgettable moments await.
+</MotionText>
+
       </VStack>
     </Box>
   );
