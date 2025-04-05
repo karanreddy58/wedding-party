@@ -178,7 +178,7 @@ function Details() {
               <ListItem>
                 <strong>Residence Inn Stamford Downtown</strong>
                 <br />
-                <i>This hotel is one bloack from the party restaurant.</i>
+                <i>This hotel is one block from the party restaurant.</i>
                 <br/>
                 25 Atlantic Street, 275 Summer St, Stamford, CT 06901
                 <br />
