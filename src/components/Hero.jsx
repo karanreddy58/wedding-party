@@ -52,7 +52,7 @@ function Hero() {
           fontFamily="'Montserrat', sans-serif"
           color="white"
         >
-          May 24, 2025 @ flindes Lane, Stamford, Connecticut
+          May 24, 2025 @ Flindes Lane, Stamford, Connecticut
         </Text>
         {/* Call-to-Action Button */}
         <Button

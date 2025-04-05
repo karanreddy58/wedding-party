@@ -166,6 +166,8 @@ function Details() {
             <ListItem>
                 <strong>Courtyard Stamford Downtown</strong>
                 <br />
+                <i>This hotel is across the street from the party restaurant.</i>
+                <br/>
                 275 Summer St, Stamford, CT 06901
                 <br />
                 <Link color="blue.500" href="https://www.marriott.com/en-us/hotels/stfcy-courtyard-stamford-downtown/overview/" isExternal>
@@ -176,6 +178,8 @@ function Details() {
               <ListItem>
                 <strong>Residence Inn Stamford Downtown</strong>
                 <br />
+                <i>This hotel is one bloack from the party restaurant.</i>
+                <br/>
                 25 Atlantic Street, 275 Summer St, Stamford, CT 06901
                 <br />
                 <Link color="blue.500" href="https://www.marriott.com/en-us/hotels/stfrd-residence-inn-stamford-downtown/overview/" isExternal>
@@ -362,7 +366,9 @@ function Details() {
             </Heading>
             <List spacing={2} fontSize={["sm", "md"]} color="#4a4a4a">
                 <ListItem>
-                Enjoy a special performance by Yo-Yo Ma during our celebration weekend (We're going, and we'd love if you could join us ) ! Learn more{" "}
+                Attend a performance by Yo-Yo Ma at the Palace Theater in downtown Stamford!
+                <br/>
+                We're going to the Sunday afternoon performance and would love for you to join us &nbsp;
                 <Link color="blue.500" href="https://orchestralumos.org/our-common-world/" isExternal>
                   here
                 </Link>
